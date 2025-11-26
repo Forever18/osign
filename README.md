@@ -12,6 +12,8 @@ OSign provides multiple solutions for iOS app signing and certificate management
 
 🤖 **Telegram Signing Bot**: [https://t.me/ipasignxbot](https://t.me/ipasignxbot)
 
+💬 **Telegram Discussion Group**: [https://t.me/ipasigns](https://t.me/ipasigns)
+
 ## About Us
 
 At OSign, our goal is simple: to make the signing and installation of iOS applications more direct and more reliable.
