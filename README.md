@@ -2,7 +2,7 @@
 
 ## Quick Links
 
-OSign provides multiple solutions for iOS app signing and certificate management. Whether you prefer local signing, web-based services, or Telegram bot integration, we have the right tool for your needs:
+OSign provides multiple solutions for iOS app signer and certificate management. Whether you prefer local signer, web-based services, or Telegram bot integration, we have the right tool for your needs:
 
 **📱 Mobile IPA Signer**: [https://osign.ipasign.cc](https://osign.ipasign.cc)
 
@@ -16,13 +16,13 @@ OSign provides multiple solutions for iOS app signing and certificate management
 
 ## About Us
 
-At OSign, our goal is simple: to make the signing and installation of iOS applications more direct and more reliable.
+At OSign, our goal is simple: to make the signer and installation of iOS applications more direct and more reliable.
 
-Traditional signing workflows depend on a computer, environment setup, and multiple complex steps. OSign eliminates these barriers with a lightweight approach that allows IPA signing to be completed quickly, locally, and without unnecessary complications.
+Traditional signer workflows depend on a computer, environment setup, and multiple complex steps. OSign eliminates these barriers with a lightweight approach that allows IPA signing to be completed quickly, locally, and without unnecessary complications.
 
 ## What We Offer
 
-OSign is a tool dedicated to local IPA signing and installation, designed with the following priorities:
+OSign is a tool dedicated to local IPA signer and installation, designed with the following priorities:
 
 - Local processing of IPA, p12, and provisioning files
 - No uploading, storing, or sharing of any signing data
