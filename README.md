@@ -4,11 +4,11 @@
 
 OSign provides multiple solutions for iOS app signing and certificate management. Whether you prefer local signing, web-based services, or Telegram bot integration, we have the right tool for your needs:
 
-🌐 **Official Website**: [https://osign.ipasign.cc](https://osign.ipasign.cc)
+**📱Mobile IPA Signer**: [https://osign.ipasign.cc](https://osign.ipasign.cc)
 
-🌐 **Web IPA Signing Service**: [https://sign.ipasign.cc](https://sign.ipasign.cc)
+🌐 **Web IPA Signer**: [https://sign.ipasign.cc](https://sign.ipasign.cc)
 
-🌐 **iOS Certificate Status Checker**: [https://check.ipasign.cc](https://check.ipasign.cc)
+🔎 **iOS Certificate Status Checker**: [https://check.ipasign.cc](https://check.ipasign.cc)
 
 🤖 **Telegram Signing Bot**: [https://t.me/ipasignxbot](https://t.me/ipasignxbot)
 
