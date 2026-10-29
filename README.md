@@ -4,9 +4,9 @@
 
 OSign provides multiple solutions for iOS app signer and certificate management. Whether you prefer local signer, web-based services, or Telegram bot integration, we have the right tool for your needs:
 
-🏠 **Official Website:** [https://www.ipasign.cc](https://osign.ipasign.cc)
+**🏠 Official Website**: [https://www.ipasign.cc](https://www.ipasign.cc)
 
-**💻 Desktop IPA Signer**: [https://desktop.ipasign.cc](https://osign.ipasign.cc)
+**💻 Desktop IPA Signer**: [https://desktop.ipasign.cc](https://desktop.ipasign.cc)
 
 **📱 Mobile IPA Signer**: [https://osign.ipasign.cc](https://osign.ipasign.cc)
 
